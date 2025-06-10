@@ -1,0 +1,49 @@
+p{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .Sundar{
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 4px;
+  }
+  .video_stat{
+    font-size: 15px;
+    color: rgb(96,96,96);
+    margin-bottom: 20px;
+  }
+.Brownlee{
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+  .videodis{
+    font-style: Arial;
+    color: gray;
+    font-size: 14px;
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+  }
+  .apple{
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227,65,64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .span_example{
+    margin-left: 2px;
+  }
+  .span_example:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  }
